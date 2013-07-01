@@ -1,5 +1,5 @@
 {
-    "name": "DevAlien\Aliegon",
+    "name": "DevAlien/Aliegon",
     "require": {
         "php": ">=5.3.0"
     }
